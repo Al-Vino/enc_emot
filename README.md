@@ -1,4 +1,4 @@
-# PAKE DOANG NGGA FOLLOW
+# PAKE DOANG NGGA FOLLOW, KONTOL LOO
  Download apk Termuxnya disini biar ngga eror👇
  
  https://f-droid.org/repo/com.termux_117.apk
