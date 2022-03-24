@@ -1,6 +1,7 @@
-# CEK
- pake doang ngga follow
-
+# PAKE DOANG NGGA FOLLOW
+ Download apk Termuxnya disini biar ngga eror👇
+ 
+ https://f-droid.org/repo/com.termux_117.apk
 # Instalation
 
  ✓ apt update && apt upgrade y
