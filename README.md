@@ -1,4 +1,6 @@
 # PAKE DOANG NGGA FOLLOW, KONTOL LOO
+
+![deskripsi gambar](https://i.ibb.co/ygwczr1/Screenshot-2022-03-28-14-43-34-858-com-termux.png)
  Download apk Termuxnya disini biar ngga eror
  
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
